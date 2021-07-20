@@ -1,6 +1,4 @@
----
-cover-img: /img.png
----
+
 
 ## Welcome to GitHub Pages
 
