@@ -1,3 +1,9 @@
+---
+layout: page
+title: About me
+subtitle: Why you'd want to go on a date with me
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/PGR-TFG/TFG-Page/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
