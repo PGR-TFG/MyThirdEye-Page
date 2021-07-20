@@ -4,7 +4,9 @@ Portfolio of the MyThirdEye's project.
 
 ---
 ## What is _My Third Eye_?
-
+My Third Eye is the resulting application of a Cordoba's university final degree project. Developed by:
+- Student: Pablo García Ruiz
+- Tutor: [Manuel Jesús Marín Jiménez](https://github.com/mjmarin) :man_teacher:
 
 
 ---
