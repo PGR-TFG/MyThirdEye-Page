@@ -1,6 +1,4 @@
----
 
----
 
 ## Welcome to GitHub Pages
 
