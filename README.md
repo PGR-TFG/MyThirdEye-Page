@@ -1,6 +1,9 @@
+# My Third Eye
+
 ---
-title: Titulo
 ---
+---
+# Ejemplo
 
 ## Welcome to GitHub Pages
 
