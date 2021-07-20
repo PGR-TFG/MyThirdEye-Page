@@ -8,7 +8,7 @@ My Third Eye is the resulting application of a Cordoba's university final degree
 - Student: Pablo García Ruiz
 - Tutor: [Manuel Jesús Marín Jiménez](https://github.com/mjmarin) 
 
-It's an app that provides vision-based assistive functionalities by means of machine vision and is intended to be used primarily by people who are visually impaired.
+It's an app that provides **vision-based assistive functionalities** by means of machine vision and is intended to be used primarily by **people** who are **visually impaired**.
 
 ---
 ## Motivations
