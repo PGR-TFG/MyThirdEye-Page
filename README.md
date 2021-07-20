@@ -1,5 +1,12 @@
 # My Third Eye
 
+Portfolio of the MyThirdEye's project.
+
+## What is _My Third Eye_?
+
+
+## Usage
+
 ---
 ---
 ---
