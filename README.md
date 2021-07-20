@@ -2,21 +2,32 @@
 
 Portfolio of the MyThirdEye's project.
 
+---
 ## What is _My Third Eye_?
 
 
+
+---
 ## Motivations
 
 
+
+---
 ## How it works
 
 
+
+---
 ## Examples
 
 
+
+---
 ## Download and install
 
 
+
+---
 ## License
 
 Deployed under [MIT License]()
