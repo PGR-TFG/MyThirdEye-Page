@@ -6,6 +6,7 @@ Portfolio of the MyThirdEye's project.
 ## Table of contents:
 - [What is _My Third Eye_?](#what-is-my-third-eye)
 - [Motivations](#motivations)
+- [Software used for development](#software-used-for-development)
 - [How it works](#how-it-works)
 - [Examples](#examples)
 - [Requirements](#requirements)
@@ -28,6 +29,19 @@ The motivations for the project are as follows:
 - Study of the tools needed to work with artificial vision in a mobile environment.
 - Study and research into existing scene description techniques, among others, for their application in mobile environments with low computational resources.
 - Experimentation in a real environment, with different iterations where the user experience is considered and improved.
+
+
+---
+## Software used for development
+| Principal programming language | Dart |
+| Framework | Flutter |
+| Main libraries | 
+- 1
+- 2
+- 3
+|
+| s | s |
+
 
 ---
 ## How it works
@@ -55,7 +69,6 @@ _My Third Eye_ offers the following functionalities and features:
 
 ---
 ## Requirements
-
 ### Software requirements
 - **Operating system**: The target mobile device must have the Android operating system.
 - **Version**: The minimum supported version is Android 5.0.
@@ -73,8 +86,7 @@ _My Third Eye_ offers the following functionalities and features:
 
 ---
 ## License
-
-Deployed under [MIT License]()
+Released under [MIT License]()
 
 ---
 ---
