@@ -43,43 +43,20 @@ The motivations for the project are as follows:
 
 <table>
   <tr>
-    <th>Main programming language</th>
-    <th>Dart</th>
+    <td>Main programming language</td>
+    <td>Dart</td>
   </tr>
   <tr>
-    <th>Framework</th>
-    <th>Flutter</th>
+    <td>Framework</td>
+    <td>Flutter</td>
   </tr>
   <tr>
-    <th>Main libraries</th>
-    <th> <img src="logo.png" width="50"></img> </th>
+    <td>Main libraries</td>
+    <td> <img src="logo.png" width="50"></img> </td>
   </tr>
   <tr>
-    <th>...</th>
-    <th>...</th>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
-  </tr>
-  <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
-  </tr>
-  <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
-  </tr>
-  <tr>
-    <td>Ernst Handel</td>
-    <td>Roland Mendel</td>
-    <td>Austria</td>
+    <td>...</td>
+    <td>...</td>
   </tr>
 </table>
 
