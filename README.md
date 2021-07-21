@@ -22,11 +22,11 @@ It's an app that provides **vision-based assistive functionalities** by means of
 ---
 ## Motivations
 The motivations for the project are as follows:
--[X]   To create an application to help overcome visual impairment.
--[X]   Research into the needs of visually impaired people and the functionalities that can be used to meet them.
--[X]   Study of the tools needed to work with artificial vision in a mobile environment.
--[X]   Study and research into existing scene description techniques, among others, for their application in mobile environments with low computational resources.
--[X]   Experimentation in a real environment, with different iterations where the user experience is considered and improved.
+- To create an application to help overcome visual impairment.
+- Research into the needs of visually impaired people and the functionalities that can be used to meet them.
+- Study of the tools needed to work with artificial vision in a mobile environment.
+- Study and research into existing scene description techniques, among others, for their application in mobile environments with low computational resources.
+- Experimentation in a real environment, with different iterations where the user experience is considered and improved.
 
 ---
 ## How it works
