@@ -45,13 +45,9 @@ The motivations for the project are as follows:
   <tr>
     <td>Main libraries</td>
     <td>
-      <li>Ele</li>
-      <li>Ele2</li>  
+      <li>Firebase</li>
+      <li>Tensorflow</li>  
     </td>
-  </tr>
-  <tr>
-    <td>...</td>
-    <td>...</td>
   </tr>
 </table>
 
