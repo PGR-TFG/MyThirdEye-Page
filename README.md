@@ -33,6 +33,8 @@ The motivations for the project are as follows:
 
 ---
 ## Software used for development
+| Category | Software |
+| --- | --- |
 | Principal programming language | Dart |
 | Framework | Flutter |
 | Main libraries | 
