@@ -52,7 +52,7 @@ The motivations for the project are as follows:
   </tr>
   <tr>
     <th>Main libraries</th>
-    <th> <im src="logo.png" width="50px"></img> </th>
+    <th> <im src="logo.png"></img> </th>
   </tr>
   <tr>
     <th>...</th>
