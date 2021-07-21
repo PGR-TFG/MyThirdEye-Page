@@ -10,7 +10,7 @@ Portfolio of the MyThirdEye's project.
 - [How it works](#how-it-works)
 - [Examples](#examples)
 - [Requirements](#requirements)
-- [Download and install](#download-and-install)
+- [Installing the app](#installing-the-app)
 - [License](license)
 
 ---
@@ -88,7 +88,8 @@ _My Third Eye_ offers the following functionalities and features:
 - **Storage space**: At least 300 MB of free space is required for installation and use.
 
 ---
-## Download and install
+## Installing the app
+The installation process is temporarily enabled through Google Drive, via this [download link](https://drive.google.com/file/d/1_XSdzsMNajA4UR3JYV6mM7767DymVHcK/view?usp=sharing). It is installed by clicking on the downloaded _.apk_ file.
 
 
 
