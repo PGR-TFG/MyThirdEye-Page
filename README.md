@@ -31,7 +31,21 @@ The motivations for the project are as follows:
 
 ---
 ## How it works
-
+The application offers the following functionalities and features:
+- Recognise the number of people.
+- Recognise a varied set of object types.
+- Recognise text.
+- Recognise ambient light level.
+- Recognise colour.
+- (Experimental) Recognise zebra crossings and traffic lights.
+- Operate it completely, using voice and touch.
+- Configurable interface and behaviour.
+- Configuration saved inside the device.
+- Possibility of continuous access to:
+  - A help functionality.
+  - A screen reader functionality.
+  - Recognise voice commands.
+  - All application windows.
 
 
 ---
