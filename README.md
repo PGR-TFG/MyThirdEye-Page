@@ -43,6 +43,25 @@ The motivations for the project are as follows:
 
 <table>
   <tr>
+    <th>Main programming language</th>
+    <th>Dart</th>
+  </tr>
+  <tr>
+    <th>Framework</th>
+    <th>Flutter</th>
+  </tr>
+  <tr>
+    <th>Main libraries</th>
+    <th> <im src="logo.png" width="50"></img> </th>
+  </tr>
+  <tr>
+    <th>...</th>
+    <th>...</th>
+  </tr>
+</table>
+
+<table>
+  <tr>
     <th>Company</th>
     <th>Contact</th>
     <th>Country</th>
