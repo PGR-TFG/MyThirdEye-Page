@@ -42,12 +42,12 @@ The motivations for the project are as follows:
 ---
 ## Requirements
 
-## Software requirements
+### Software requirements
 - **Operating system**: The target mobile device must have the Android operating system.
 - **Version**: The minimum supported version is Android 5.0.
 - **Permissions**: In order to fully use the application, it must be given permissions to use the camera and microphone.
 
-## Hardware requirements
+### Hardware requirements
 - **Accessories**: The device must have a front and a rear camera, for visual recognition. In addition, it shall have a microphone for reading out voice commands.
 - **Sensors**: The device must have a light sensor, if ambient light level recognition is to be implemented.
 - **Storage space**: At least 300 MB of free space is required for installation and use.
