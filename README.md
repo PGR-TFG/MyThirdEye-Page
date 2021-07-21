@@ -1,6 +1,9 @@
 # My Third Eye
 
-Portfolio of the MyThirdEye's project. Table of contents:
+Portfolio of the MyThirdEye's project. 
+
+---
+## Table of contents:
 - [What is _My Third Eye_](#what-is-my-third-eye)
 - [Motivations](#motivations)
 - [How it works](#how-it-works)
