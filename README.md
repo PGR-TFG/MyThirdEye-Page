@@ -45,10 +45,8 @@ The motivations for the project are as follows:
   <tr>
     <td>Main libraries</td>
     <td>
-      <ul>
-        <li>Ele</li>
-        <li>Ele2</li>
-      </ul>  
+      <li>Ele</li>
+      <li>Ele2</li>  
     </td>
   </tr>
   <tr>
