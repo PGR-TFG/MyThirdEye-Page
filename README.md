@@ -1,14 +1,12 @@
-<p align="center">
-  <a href="https://getbootstrap.com/">
-    <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap logo" width="200" height="165">
-  </a>
-</p>
-
 # My Third Eye
 
 Portfolio of the MyThirdEye's project. Table of contents:
-- [What is My Third Eye](#what-is-my-third-eye)
+- [What is _My Third Eye_(#what-is-my-third-eye)
 - [Motivations](#motivations)
+- [How it works](#how-it-works)
+- [Examples](#examples)
+- [Download and install](#download-and-install)
+- [License](license)
 
 ---
 ## What is _My Third Eye_?
