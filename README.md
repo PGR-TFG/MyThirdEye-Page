@@ -31,7 +31,7 @@ The motivations for the project are as follows:
 
 ---
 ## How it works
-The application offers the following functionalities and features:
+_My Third Eye_ offers the following functionalities and features:
 - Recognise the number of people.
 - Recognise a varied set of object types.
 - Recognise text.
