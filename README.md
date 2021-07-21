@@ -44,7 +44,7 @@ The motivations for the project are as follows:
   </tr>
   <tr>
     <td>Main libraries</td>
-    <td> <img src="logo.png" width="50"></img> </td>
+    <td> <img src="logo.png" width="50"> </td>
   </tr>
   <tr>
     <td>...</td>
