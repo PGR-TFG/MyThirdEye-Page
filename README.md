@@ -37,11 +37,7 @@ The motivations for the project are as follows:
 | --- | --- |
 | Principal programming language | Dart |
 | Framework | Flutter |
-| Main libraries | 
-- 1
-- 2
-- 3
-|
+| Main libraries | <img src="logo.png"></img> |
 | s | s |
 
 
