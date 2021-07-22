@@ -8,7 +8,6 @@ Portfolio of the MyThirdEye's project.
 - [Motivations](#motivations)
 - [Software used for development](#software-used-for-development)
 - [How it works](#how-it-works)
-- [Examples](#examples)
 - [Requirements](#requirements)
 - [Installing the app](#installing-the-app)
 - [License](license)
@@ -69,14 +68,10 @@ _My Third Eye_ offers the following functionalities and features:
   - Recognise voice commands.
   - All application windows.
 
-For further information see the [technical manual](https://github.com/PGR-TFG/MyThirdEye-Page/blob/main/Manual_tecnico.pdf).
+For further information see the [_technical manual_](https://github.com/PGR-TFG/MyThirdEye-Page/blob/main/doc/Technical_manual.pdf).
 <embed src="Manual_tecnico.pdf" width="200px" />
 
-If you want to see some examples, take a look on the [user manual](https://github.com/PGR-TFG/MyThirdEye-Page/blob/main/Manual_usuario.pdf).
-
----
-## Examples
-
+If you want to see some examples, take a look on the _user manual_ part [1](https://github.com/PGR-TFG/MyThirdEye-Page/blob/main/doc/User_manual_pt1.pdf) and [2](https://github.com/PGR-TFG/MyThirdEye-Page/blob/main/doc/User_manual_pt2.pdf).
 
 
 ---
@@ -101,45 +96,4 @@ The installation process is temporarily enabled through Google Drive, via this [
 ## License
 Released under [MIT License]()
 
----
----
----
-# Ejemplo
 
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/PGR-TFG/TFG-Page/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PGR-TFG/TFG-Page/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
