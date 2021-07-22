@@ -70,15 +70,15 @@ _My Third Eye_ offers the following functionalities and features:
 
 For further information see the [_technical manual_](https://github.com/PGR-TFG/MyThirdEye-Page/blob/main/doc/Technical_manual.pdf):
 
-<iframe src="https://drive.google.com/file/d/1UlxecFmqOJSYYwmBLZuVUZEKVzisM1x_/preview" width="95%" height="600px"></iframe>
+<iframe src="https://drive.google.com/file/d/1UlxecFmqOJSYYwmBLZuVUZEKVzisM1x_/preview" width="95%" height="450px"></iframe>
 
 If you want to see some examples, take a look on the _user manual_ part [1](https://github.com/PGR-TFG/MyThirdEye-Page/blob/main/doc/User_manual_pt1.pdf):
 
-<iframe src="https://drive.google.com/file/d/165snBWlPOkAaA_k36XBkoNAjHIfl-Wjw/preview" width="95%" height="600px"></iframe>
+<iframe src="https://drive.google.com/file/d/165snBWlPOkAaA_k36XBkoNAjHIfl-Wjw/preview" width="95%" height="450px"></iframe>
 
 And part [2](https://github.com/PGR-TFG/MyThirdEye-Page/blob/main/doc/User_manual_pt2.pdf):
 
-<iframe src="https://drive.google.com/file/d/1AIpedd59Cp1gMzLAXhK66rbddbslqXlU/preview" width="95%" height="600px"></iframe>
+<iframe src="https://drive.google.com/file/d/1AIpedd59Cp1gMzLAXhK66rbddbslqXlU/preview" width="95%" height="450px"></iframe>
 
 ---
 ## Requirements
