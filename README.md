@@ -39,13 +39,13 @@ The motivations for the project are as follows:
   </tr>
   <tr>
     <td>Framework</td>
-    <td>[Flutter](https://flutter.dev/)</td>
+    <td><a href="https://flutter.dev/">Flutter</a></td>
   </tr>
   <tr>
     <td>Main libraries</td>
     <td>
-      <li>[Firebase](https://firebase.google.com/)</li>
-      <li>[Tensorflow](https://www.tensorflow.org/)</li>  
+      <li><a href="https://firebase.google.com/">Firebase</a></li>
+      <li><a href="https://firebase.google.com/">Tensorflow</a></li>  
     </td>
   </tr>
 </table>
