@@ -35,17 +35,17 @@ The motivations for the project are as follows:
 <table>
   <tr>
     <td>Main programming language</td>
-    <td>Dart</td>
+    <td>[Dart](https://dart.dev/)</td>
   </tr>
   <tr>
     <td>Framework</td>
-    <td>Flutter</td>
+    <td>[Flutter](https://flutter.dev/)</td>
   </tr>
   <tr>
     <td>Main libraries</td>
     <td>
-      <li>Firebase</li>
-      <li>Tensorflow</li>  
+      <li>[Firebase](https://firebase.google.com/)</li>
+      <li>[Tensorflow](https://www.tensorflow.org/)</li>  
     </td>
   </tr>
 </table>
