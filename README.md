@@ -62,9 +62,9 @@ _My Third Eye_ offers the following functionalities and features:
 - Operate it completely, using voice and touch.
 - Configurable interface and behaviour.
 - Configuration saved inside the device.
-- Possibility of continuous access to:
+- Continuous access to:
   - A help functionality.
-  - A screen reader functionality.
+  - An screen reader functionality.
   - Recognise voice commands.
   - All application windows.
 
