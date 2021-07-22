@@ -70,7 +70,7 @@ _My Third Eye_ offers the following functionalities and features:
   - All application windows.
 
 For further information see the technical manual:
-<embed src="Manual_tecnico.pdf" width="800px" height="2100px" />
+<embed src="Manual_tecnico.pdf" width="300px" />
 
 
 ---
