@@ -70,7 +70,7 @@ _My Third Eye_ offers the following functionalities and features:
 
 For further information see the [_technical manual_](https://github.com/PGR-TFG/MyThirdEye-Page/blob/main/doc/Technical_manual.pdf).
 
-<iframe src="https://drive.google.com/file/d/1UlxecFmqOJSYYwmBLZuVUZEKVzisM1x_/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1UlxecFmqOJSYYwmBLZuVUZEKVzisM1x_/preview" width="80%" allow="autoplay"></iframe>
 
 If you want to see some examples, take a look on the _user manual_ part [1](https://github.com/PGR-TFG/MyThirdEye-Page/blob/main/doc/User_manual_pt1.pdf) and [2](https://github.com/PGR-TFG/MyThirdEye-Page/blob/main/doc/User_manual_pt2.pdf).
 
