@@ -94,6 +94,6 @@ The installation process is temporarily enabled through Google Drive, via this [
 
 ---
 ## License
-Released under [MIT License]()
+Released under [MIT License](https://en.wikipedia.org/wiki/MIT_License).
 
 
