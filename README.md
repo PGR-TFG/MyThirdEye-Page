@@ -61,7 +61,7 @@ _My Third Eye_ offers the following functionalities and features:
 - (Experimental) Recognise zebra crossings and traffic lights.
 - Operate it completely, using voice and touch.
 - Configurable interface and behaviour.
-- Configuration saved inside the device.
+- Configuration saved on device.
 - Continuous access to:
   - A help functionality.
   - An screen reader functionality.
