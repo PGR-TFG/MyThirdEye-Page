@@ -71,6 +71,8 @@ _My Third Eye_ offers the following functionalities and features:
 
 For further information see the technical manual:
 <embed src="Manual_tecnico.pdf" width="800px" height="2100px" />
+
+
 ---
 ## Examples
 
