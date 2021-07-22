@@ -69,7 +69,6 @@ _My Third Eye_ offers the following functionalities and features:
   - All application windows.
 
 For further information see the [_technical manual_](https://github.com/PGR-TFG/MyThirdEye-Page/blob/main/doc/Technical_manual.pdf).
-<embed src="doc/Technical_manual.pdf" width="200px" />
 
 If you want to see some examples, take a look on the _user manual_ part [1](https://github.com/PGR-TFG/MyThirdEye-Page/blob/main/doc/User_manual_pt1.pdf) and [2](https://github.com/PGR-TFG/MyThirdEye-Page/blob/main/doc/User_manual_pt2.pdf).
 
