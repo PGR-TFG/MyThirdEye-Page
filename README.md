@@ -69,9 +69,10 @@ _My Third Eye_ offers the following functionalities and features:
   - Recognise voice commands.
   - All application windows.
 
-For further information see the technical manual:
-<embed src="Manual_tecnico.pdf" width="300px" />
+For further information see the [technical manual](https://github.com/PGR-TFG/MyThirdEye-Page/blob/main/Manual_tecnico.pdf).
+<embed src="Manual_tecnico.pdf" width="200px" />
 
+If you want to see some examples, take a look on the [user manual](https://github.com/PGR-TFG/MyThirdEye-Page/blob/main/Manual_usuario.pdf).
 
 ---
 ## Examples
