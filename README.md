@@ -80,7 +80,7 @@ _My Third Eye_ offers the following functionalities and features:
     <td style="text-align: center;"><img src="assets/examples/people.png" width="70%"></td>
   </tr>
   <tr>
-    <td style="text-align: center; background-color: red;">Recognition: Number of people</td>
+    <td style="text-align: center; background-color: #ededed;">Recognition: Number of people</td>
   </tr>
 </table>
 
