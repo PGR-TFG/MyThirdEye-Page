@@ -36,7 +36,7 @@ The motivations for the project are as follows:
 <table>
   <tr>
     <td>Main programming language</td>
-    <td style="text-align: center;"><a href="https://dart.dev/" >Dart</a></td>
+    <td><a href="https://dart.dev/" >Dart</a></td>
   </tr>
   <tr>
     <td>Framework</td>
@@ -77,37 +77,37 @@ _My Third Eye_ offers the following functionalities and features:
 
 <table>
   <tr>
-    <td><img src="assets/examples/people.png" width="70%"></td>
+    <td style="text-align: center;"><img src="assets/examples/people.png" width="70%"></td>
   </tr>
   <tr>
-    <td>Recognition: Number of people</td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td><img src="assets/examples/scene.png" width="70%"></td>
-  </tr>
-  <tr>
-    <td>Recognition: Objects on scene</td>
+    <td style="text-align: center;">Recognition: Number of people</td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td><img src="assets/examples/color.png" width="70%"></td>
+    <td style="text-align: center;"><img src="assets/examples/scene.png" width="70%"></td>
   </tr>
   <tr>
-    <td>Recognition: Color</td>
+    <td style="text-align: center;">Recognition: Objects on scene</td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td><img src="assets/examples/text.png" width="70%"></td>
+    <td style="text-align: center;"><img src="assets/examples/color.png" width="70%"></td>
   </tr>
   <tr>
-    <td>Recognition: Text</td>
+    <td style="text-align: center;">Recognition: Color</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td style="text-align: center;"><img src="assets/examples/text.png" width="70%"></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Recognition: Text</td>
   </tr>
 </table>
 
