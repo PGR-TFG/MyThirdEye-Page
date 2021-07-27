@@ -36,7 +36,7 @@ The motivations for the project are as follows:
 <table>
   <tr>
     <td>Main programming language</td>
-    <td><a href="https://dart.dev/" >Dart</a></td>
+    <td style="text-align: center;"><a href="https://dart.dev/" >Dart</a></td>
   </tr>
   <tr>
     <td>Framework</td>
