@@ -8,7 +8,7 @@ Portfolio of the MyThirdEye's project.
 - [Motivations](#motivations)
 - [Software used for development](#software-used-for-development)
 - [How it works](#how-it-works)
-- [Sample screenshots](#sample-screenshots)
+- [Case examples](#case-examples)
 - [Requirements](#requirements)
 - [Installing the app](#installing-the-app)
 - [License](license)
@@ -73,7 +73,7 @@ _My Third Eye_ offers the following functionalities and features:
 
 
 --- 
-## Sample screenshots
+## Case examples
 
 If you want to see some explained examples, take a look on the _user manual_ part [1](https://github.com/PGR-TFG/MyThirdEye-Page/blob/main/doc/User_manual_pt1.pdf):
 
