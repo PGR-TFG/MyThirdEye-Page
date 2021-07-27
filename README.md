@@ -51,7 +51,7 @@ The motivations for the project are as follows:
   </tr>
 </table>
 
-In order to develop the detection of different types of objects, it has been made of the artificial intelligence model: [SSD Mobilenet V3 Small Coco](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf1_detection_zoo.md#mobile-models).
+In order to develop the detection of different types of objects, it has been used the artificial intelligence model: [SSD Mobilenet V3 Small Coco](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf1_detection_zoo.md#mobile-models).
 
 ---
 ## How it works
