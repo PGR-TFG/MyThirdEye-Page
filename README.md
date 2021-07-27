@@ -89,7 +89,7 @@ _My Third Eye_ offers the following functionalities and features:
     <td style="text-align: center;"><img src="assets/examples/scene.png" width="70%"></td>
   </tr>
   <tr>
-    <td style="text-align: center;">Recognition: Objects on scene</td>
+    <td style="text-align: center; background-color: #ededed;">Recognition: Objects on scene</td>
   </tr>
 </table>
 
@@ -98,7 +98,7 @@ _My Third Eye_ offers the following functionalities and features:
     <td style="text-align: center;"><img src="assets/examples/color.png" width="70%"></td>
   </tr>
   <tr>
-    <td style="text-align: center;">Recognition: Color</td>
+    <td style="text-align: center; background-color: #ededed;">Recognition: Color</td>
   </tr>
 </table>
 
@@ -107,7 +107,7 @@ _My Third Eye_ offers the following functionalities and features:
     <td style="text-align: center;"><img src="assets/examples/text.png" width="70%"></td>
   </tr>
   <tr>
-    <td style="text-align: center;">Recognition: Text</td>
+    <td style="text-align: center; background-color: #ededed;">Recognition: Text</td>
   </tr>
 </table>
 
