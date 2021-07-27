@@ -77,10 +77,10 @@ _My Third Eye_ offers the following functionalities and features:
 
 <table>
   <tr>
-    <td>Arriba</td>
+    <td><img src="assets/examples/people.png" width="95%"></td>
   </tr>
   <tr>
-    <td>Abajo</td>
+    <td>Recognition: Number of people</td>
   </tr>
 </table>
 
