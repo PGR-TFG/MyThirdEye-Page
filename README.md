@@ -8,6 +8,7 @@ Portfolio of the MyThirdEye's project.
 - [Motivations](#motivations)
 - [Software used for development](#software-used-for-development)
 - [How it works](#how-it-works)
+- [Sample screenshots](#sample-screenshots)
 - [Requirements](#requirements)
 - [Installing the app](#installing-the-app)
 - [License](license)
@@ -68,11 +69,11 @@ _My Third Eye_ offers the following functionalities and features:
   - Recognise voice commands.
   - All application windows.
 
-For further information see the [_technical manual_](https://github.com/PGR-TFG/MyThirdEye-Page/blob/main/doc/Technical_manual.pdf):
 
-<iframe src="https://drive.google.com/file/d/1UlxecFmqOJSYYwmBLZuVUZEKVzisM1x_/preview" width="95%" height="450px"></iframe>
+--- 
+## Sample screenshots
 
-If you want to see some examples, take a look on the _user manual_ part [1](https://github.com/PGR-TFG/MyThirdEye-Page/blob/main/doc/User_manual_pt1.pdf):
+If you want to see some explained examples, take a look on the _user manual_ part [1](https://github.com/PGR-TFG/MyThirdEye-Page/blob/main/doc/User_manual_pt1.pdf):
 
 <iframe src="https://drive.google.com/file/d/165snBWlPOkAaA_k36XBkoNAjHIfl-Wjw/preview" width="95%" height="450px"></iframe>
 
