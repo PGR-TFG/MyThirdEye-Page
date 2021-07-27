@@ -75,6 +75,15 @@ _My Third Eye_ offers the following functionalities and features:
 --- 
 ## Case examples
 
+<table>
+  <tr>
+    <td>Arriba</td>
+  </tr>
+  <tr>
+    <td>Abajo</td>
+  </tr>
+</table>
+
 If you want to see some explained examples, take a look on the _user manual_ part [1](https://github.com/PGR-TFG/MyThirdEye-Page/blob/main/doc/User_manual_pt1.pdf):
 
 <iframe src="https://drive.google.com/file/d/165snBWlPOkAaA_k36XBkoNAjHIfl-Wjw/preview" width="95%" height="450px"></iframe>
